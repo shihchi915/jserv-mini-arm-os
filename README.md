@@ -2,7 +2,7 @@ Build a minimal multi-tasking OS kernel for ARM from scratch
 
 Prerequisites
 -------------
-- [QEMU with an STM32 microcontroller implementation](http://beckus.github.io/qemu_stm32/)
+- [QEMU with an STM32 microcontroller implementation](https://github.com/beckus/qemu_stm32)
   - Build instructions
 ```
 ./configure --disable-werror --enable-debug \
